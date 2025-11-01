@@ -19,5 +19,3 @@ My first repository
 ## Why are they My Favorite
 *They bring me joy and happiness when I feel sad and hungry*
 
-![alt text](<img width="358" height="285" alt="Potato" src="https://github.com/user-attachments/assets/c6188f37-88b1-46bd-b575-77204e54a457" />
-)
